@@ -75,4 +75,12 @@ https://github.com/Avlokitas/Dilli-ki-pasand.git
 npm Install
 ```
 ## Screenshots
+<img width="1440" alt="Screenshot 2024-04-21 at 10 23 07 PM" src="https://github.com/Avlokitas/Dilli-ki-pasand/assets/167293024/483286ba-a3d1-43fb-b3bf-8a8850a3f855">
+
+<img width="1440" alt="Screenshot 2024-04-21 at 10 23 14 PM" src="https://github.com/Avlokitas/Dilli-ki-pasand/assets/167293024/c61d2fd1-f573-46f3-a1a1-961bf41ada66">
+
+<img width="1440" alt="Screenshot 2024-04-21 at 10 23 22 PM" src="https://github.com/Avlokitas/Dilli-ki-pasand/assets/167293024/029324f2-731f-41e8-9e4d-395fd56dcdd9">
+
+<img width="1440" alt="Screenshot 2024-04-21 at 10 23 32 PM" src="https://github.com/Avlokitas/Dilli-ki-pasand/assets/167293024/d9ecc540-cebb-49a2-9dcb-0692b35df861">
+
 
